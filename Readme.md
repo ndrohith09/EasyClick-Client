@@ -1,14 +1,13 @@
-## Magic Subscribe 
-![img](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/magic%20subscribe.jpg?alt=media&token=ac84e2a2-c650-4e46-bef5-bda2ef3c78ac)
+## EasyClick 
 
-### Magic Subscribe Server 
+### EasyClick Server 
 
-Clone this [server repo](https://github.com/Revanth2002/Square-Server) and run the following commands 
+Clone this [server repo](https://github.com/ndrohith09/EasyClick-Server) and run the following commands 
 ````bash
-git clone https://github.com/Revanth2002/Square-Server.git
+git clone https://github.com/ndrohith09/EasyClick-Server.git
 cd Square-Server
 ````
-Change the secrets in the [settings.py](https://github.com/Revanth2002/Square-Server/blob/main/squarebackend/settings.py) file
+Change the secrets in the [settings.py](https://github.com/ndrohith09/EasyClick-Server/blob/main/squarebackend/settings.py) file
 ```python 
 BASE_URL =  "http://localhost:8000" # your server url
 SQUARE_APP_ID= "sandbox-****-***" # your square app id
@@ -27,12 +26,12 @@ python3 manage.py runserver 0.0.0.0:8000
 <hr />
 <br />
 
-### Magic Subscribe Client
+### EasyClick Client
 
-Clone this [client repo](https://github.com/ndrohith09/MagicSubscribe-Client) and run the following commands 
+Clone this [client repo](https://github.com/ndrohith09/EasyClick-Client) and run the following commands 
 
 ````bash
-git clone https://github.com/ndrohith09/MagicSubscribe-Client.git
+git clone https://github.com/ndrohith09/EasyClick-Client.git
 cd MagicSubscribe-Client
 ````
 
