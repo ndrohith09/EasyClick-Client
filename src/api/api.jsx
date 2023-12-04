@@ -15,12 +15,12 @@ else {
 } 
 
 const instance = axios.create({ 
-  baseURL : 'http://0.0.0.0:8000/api/v1/', 
-  // baseURL : 'https://magicsubscribe.pythonanywhere.com/api/v1/', 
+  // baseURL : 'http://0.0.0.0:8000/api/v1/', 
+  baseURL : 'http://35.91.100.82:8000/api/v1/', 
   headers: {
     Authorization: `Bearer ${encryptText}`,
     "Content-Type": "application/json",
   }, 
-});1
+});
 
 export default instance;

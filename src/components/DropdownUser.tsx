@@ -54,7 +54,7 @@ const DropdownUser = () => {
         <span className="hidden text-right lg:block">
           <span className="block text-sm font-medium text-black dark:text-white">
             {/* {localStorage.getItem('square_company_name')}  */}
-            Rohith ND
+            EasyClick
           </span> 
         </span>
 

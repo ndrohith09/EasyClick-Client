@@ -32,7 +32,7 @@ Clone this [client repo](https://github.com/ndrohith09/EasyClick-Client) and run
 
 ````bash
 git clone https://github.com/ndrohith09/EasyClick-Client.git
-cd MagicSubscribe-Client
+cd EasyClick-Client
 ````
 
 Install the dependencies and run the following command
@@ -42,7 +42,7 @@ yarn install
 npm install
 ```
 
-Change the api **baseURL** according to your server url in the [api.jsx](https://github.com/ndrohith09/MagicSubscribe-Client/blob/master/src/api/api.jsx) file
+Change the api **baseURL** according to your server url in the [api.jsx](https://github.com/ndrohith09/EasyClick-Client/blob/master/src/api/api.jsx) file
 ```javascript  
  baseURL : 'https://0.0.0.0:8000/api/v1/',
 ```

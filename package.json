@@ -1,5 +1,5 @@
 {
-  "name": "magicsubsribe",
+  "name": "easyclick",
   "private": true,
   "version": "1.0.5",
   "type": "module",
@@ -11,7 +11,7 @@
   "author": {
     "name": "Magician",
     "email": "ndrohith09@gmail.com",
-    "url": "https://magicsubscribe.netlify.app/"
+    "url": "https://easyclick.netlify.app/"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.6.1",

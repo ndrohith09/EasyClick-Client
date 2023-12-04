@@ -56,8 +56,9 @@ class Loyality extends Component {
     
     setTimeout(() => {
       console.log('Hello, World!')
-      this.setState({ onShow : "yes" });
-    }, 3000);
+      alert('Oops! Something went wrong.');
+    this.setState({ msg : "Click Start to make predictions" });
+    }, 4000);
     
   }
 
@@ -83,19 +84,11 @@ class Loyality extends Component {
             >
               Start Predictions
             </Button>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <Button
-              colorScheme="light"
-              color={'gray.700'}
-              onClick={this.onOpen}
-              variant="outline"
-            >
-              Send Email Campaign
-            </Button>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          
             
           </Box>
         </Flex>
+        
         <br /> 
         { onShow === "yes"  ? 
 <div>
@@ -103,6 +96,8 @@ class Loyality extends Component {
 <div class="grid grid-flow-col">
   <div> <div className="rounded-sm border border-stroke bg-white px-5 pt-6 pb-2.5 shadow-default dark:border-strokedark dark:bg-boxdark sm:px-7.5 xl:pb-1">
 <div className="chart-container"> 
+
+
         <Text color="gray.600" textAlign={'center'} fontSize={12}> Customer Analyis                 
             </Text>  
                 <Bar 
@@ -230,59 +225,7 @@ class Loyality extends Component {
 
       </>} 
 
-    
-    <Drawer
-          closeOnOverlayClick={false}
-          onClose={this.onClose}
-          isOpen={isOpen}
-          size={'xl'}
-        >
-          <DrawerOverlay />
-          <DrawerContent>
-            <DrawerCloseButton />
-            <DrawerHeader>{`Trigger Campaign`}</DrawerHeader>
-            <DrawerBody>
-              <form action="#">
-                <div className="p-6.5">
-                  {/* <div className="mb-4.5">
-                    <label className="mb-2.5 block text-black dark:text-white">
-                      Campaign ID
-                    </label>
-                    <input
-                      type="text"
-                      placeholder= "ID1234"
-                      disabled
-                      className="w-full rounded border-[1.5px] border-stroke bg-transparent py-3 px-5 font-medium outline-none transition focus:border-primary active:border-primary disabled:cursor-default disabled:bg-whiter dark:border-form-strokedark dark:bg-form-input dark:focus:border-primary"
-                    />
-                  </div> */}
-
-                  <div className="mb-4.5">
-                    <label className="mb-2.5 block text-black dark:text-white">
-                      Loyality Threshold
-                    </label>
-                    <input
-                      type="number"
-                      placeholder="50"
-                      onChange={(e) =>
-                        this.setState({ loyality_threshold: e.target.value })
-                      }
-                      className="w-full rounded border-[1.5px] border-stroke bg-transparent py-3 px-5 font-medium outline-none transition focus:border-primary active:border-primary disabled:cursor-default disabled:bg-whiter dark:border-form-strokedark dark:bg-form-input dark:focus:border-primary"
-                    />
-                  </div> 
-
-                  <button
-                    onClick={this.createSubscription}
-                    className="flex w-full justify-center rounded bg-primary p-3 font-medium text-gray"
-                  >
-                    Create Email Campaign
-                  </button>
-                </div>
-              </form>
-              <br />
-            </DrawerBody>
-          </DrawerContent>
-        </Drawer>
-
+     
       </DefaultLayout>
         );
     }

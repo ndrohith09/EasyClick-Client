@@ -168,7 +168,7 @@ const SignIn = () => {
               <h2 className="mb-9 text-2xl font-bold text-black dark:text-white sm:text-title-xl2 text-center">
                Easy Dashboard
               </h2>
-
+                <a target='_blank' href="https://squareup.com/login?app=developer&return_to=https://developer.squareup.com/apps/sq0idp-p1_bMi4Luwwq2jpkTo8boQ/settings" className="2xl:px-10 text-center">Note: Make sure you are logged into Square Developer Dashboard before signing in</a> 
               <form>   
                 <br/>
                 <button 
