@@ -1,0 +1,114 @@
+[
+    {
+        "id" : 1,
+        "name" : "Rohith",
+        "phone" :"1234567895",
+        "email":"rohith@gmail.com",
+        "loyality" :"40"
+    },
+    {
+        "id" : 2,
+        "name" : "Max",
+        "phone" :"1234576890",
+        "email":"max@gmail.com",
+        "loyality" :"10"
+    },
+    {
+        "id" : 3,
+        "name" : "Aravind S",
+        "phone" :"212-123-1242",
+        "email":"aravind@gmail.com",
+        "loyality" :"20"
+    },
+    {
+        "id" : 4,
+        "name" : "Remo Raj",
+        "phone" :"212-123-2345",
+        "email":"remo1@gmail.com",
+        "loyality" :"30"
+    },
+    {
+        "id" : 5,
+        "name" : "Revanth",
+        "phone" :"213-245-2345",
+        "email":"revanth@gmail.com",
+        "loyality" :"50"
+    }, 
+     {
+          "id": 6,
+          "name": "Aarthi",
+          "phone": "415-555-1234",
+          "email": "aarthi@example.com",
+          "loyality": "75"
+        },
+        {
+          "id": 7,
+          "name": "Mukesh",
+          "phone": "603-555-5678",
+          "email": "mukesh@hotmail.com",
+          "loyality": "120"
+        },
+        {
+          "id": 8,
+          "name": "Priya",
+          "phone": "312-555-9876",
+          "email": "priya@yahoo.com",
+          "loyality": "30"
+        },
+        {
+          "id": 9,
+          "name": "Akash",
+          "phone": "206-555-0123",
+          "email": "akash@gmail.com",
+          "loyality": "80"
+        },
+        {
+          "id": 10,
+          "name": "Anjali",
+          "phone": "707-555-4321",
+          "email": "anjali@outlook.com",
+          "loyality": "100"
+        },
+        {
+          "id": 11,
+          "name": "Vikram",
+          "phone": "408-555-7890",
+          "email": "vikram@mail.com",
+          "loyality": "40"
+        },
+        {
+          "id": 12,
+          "name": "Pooja",
+          "phone": "510-555-2580",
+          "email": "pooja@icloud.com",
+          "loyality": "65"
+        },
+        {
+          "id": 13,
+          "name": "Rahul",
+          "phone": "818-555-3690",
+          "email": "rahul@gmail.com",
+          "loyality": "90"
+        },
+        {
+          "id": 14,
+          "name": "Swetha",
+          "phone": "916-555-1472",
+          "email": "swetha@hotmail.com",
+          "loyality": "15"
+        },
+        {
+          "id": 15,
+          "name": "Varun",
+          "phone": "212-555-5900",
+          "email": "varun@yahoo.com",
+          "loyality": "20"
+        },
+        {
+            "id" : 16,
+            "name" : "Remo Raj",
+            "phone" :"213-245-2345",
+            "email":"remo0@gmail.com",
+            "loyality" :"35"
+        }
+      ]

@@ -1,0 +1,20 @@
+[
+    {
+        "id" :"TEMP01",
+        "value" : 1,
+        "name" : "Template 1",
+        "img" :"https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/template1.png?alt=media&token=dd7f2f54-7a3c-4abf-9abe-032af44605e5"
+    },
+    {
+        "id" :"TEMP02",
+        "value" : 2,
+        "name" : "Template 2",
+        "img" :"https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/template2.png?alt=media&token=f376ad70-d1db-43ea-87c7-5c4f3ee3b1f8"
+    },
+    {
+        "id" :"TEMP03",
+        "value" : 3,
+        "name" : "Template 3",
+        "img" :"https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/template3.png?alt=media&token=4790c703-1a1c-431a-bb9d-b1977053c96f"
+    }
+]

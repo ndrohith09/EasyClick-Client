@@ -1,0 +1,34 @@
+[
+    {
+        "cadence" : "SELECT PERIOD",
+        "id" : 0
+    },
+    {
+        "cadence" : "WEEKLY",
+        "id" : 1
+    },
+    {
+        "cadence" : "MONTHLY",
+        "id" : 2
+    },
+    {
+        "cadence" : "QUARTERLY",
+        "id" : 3
+    },
+    {
+        "cadence" : "EVERY_FOUR_MONTHS",
+        "id" : 4
+    },
+    {
+        "cadence" : "EVERY_SIX_MONTHS",
+        "id" : 5
+    },
+    {
+        "cadence" : "ANNUAL",
+        "id" : 6
+    },
+    {
+        "cadence" : "EVERY_TWO_YEARS",
+        "id" : 7
+    }
+]

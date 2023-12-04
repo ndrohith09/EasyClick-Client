@@ -1,0 +1,63 @@
+[
+  {
+    "id": "IND01",
+    "name": "Beauty Parlour",
+    "image": "https://cdn.dribbble.com/users/2118692/screenshots/13939536/media/a74f9eacdfcc1d58e5b8817b79ff2d64.png?compress=1&resize=1000x750&vertical=top"
+  },
+  {
+    "id": "IND02",
+    "name": "Boutique",
+    "image": "https://cdn.dribbble.com/users/1450874/screenshots/14964728/media/dec18d9d0fbdc3c5e14eb544cb9d9e7e.jpg?compress=1&resize=1000x750&vertical=top"
+  },
+  {
+    "id": "IND03",
+    "name": "Book Store",
+    "image": "https://cdn.dribbble.com/users/133069/screenshots/11198059/media/a7a5e0d70cfb00c10b572295b31da8e1.png?compress=1&resize=1000x750&vertical=top"
+  },
+  {
+    "id": "IND04",
+    "name": "CRM Software",
+    "image": "https://cdn.dribbble.com/userupload/3061677/file/original-23e52d6f81438c0a4c79ee6dbf0f3a71.png?compress=1&resize=1024x768"
+  },
+  {
+    "id": "IND05",
+    "name": "Gymnasium",
+    "image": "https://cdn.dribbble.com/users/1217833/screenshots/18076263/media/1bbe3b45e66c43794769c38d77550b0a.jpg?compress=1&resize=1000x750&vertical=top"
+  },
+  {
+    "id": "IND06",
+    "name": "Saloon",
+    "image": "https://cdn.dribbble.com/users/1767962/screenshots/4202922/media/11b0d9c90534817b26bc1ee2df0a1459.png?compress=1&resize=800x600&vertical=top"
+  },
+  {
+    "id" : "IND07",
+    "name" : "Pharmacy",
+    "image" : "https://cdn.dribbble.com/users/2118692/screenshots/11837184/media/9fb2ed55e159389af41ca22c9f37d287.png?compress=1&resize=1000x750&vertical=top"
+  } ,
+  {
+    "id" : "IND08",
+    "name" : "Bakery",
+    "image" : "https://cdn.dribbble.com/users/697220/screenshots/5092045/media/49b3af641147e42b16a3aa8849f62d56.png?compress=1&resize=1000x750&vertical=top"
+  },
+  {
+    "id" : "IND09",
+    "name" : "Pet Stores",
+    "image" :"https://cdn.dribbble.com/userupload/3799542/file/original-76d28b874417e896579c582f1a87c2ba.png?compress=1&resize=1024x768"
+  },
+  {
+    "id" : "IND10",
+    "name" : "Restaurant",
+    "image" : "https://cdn.dribbble.com/users/4703566/screenshots/15021362/media/60c218b848e455dbcfeee85045e5193c.jpg?compress=1&resize=1000x750&vertical=top"
+  },
+  {
+    "id" : "IND11",
+    "name" : "Fruits & Vegetable",
+    "image" : "https://cdn.dribbble.com/userupload/4099124/file/original-5598e396d997b914de212352b9fba22b.jpg?compress=1&resize=1024x768"
+  },
+  {
+    "id" : "IND12", 
+    "name" : "Grocery",
+    "image" : "https://cdn.dribbble.com/users/467606/screenshots/15062365/media/3eaa84b7679ac373e670b0593e165385.jpg?compress=1&resize=1000x750&vertical=top"
+  }
+  
+]
