@@ -98,7 +98,7 @@ Install redis in host machine
 ``` pip install -r requirements.txt```
 
 #### Starting the worker
-```celery -A squarebackend.celery worker --pool=solo -l info```
+```celery -A easyclick.celery worker --pool=solo -l info```
 
 #### starting periodic worker
-```celery -A squarebackend beat -l INFO```
+```celery -A easyclick beat -l INFO```
